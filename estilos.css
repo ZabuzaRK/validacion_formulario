@@ -1,0 +1,86 @@
+.centrar {
+  text-align: center;
+}
+
+.margen {
+  padding: 15px;
+}
+
+.ancho {
+  max-width: 1200px;
+  margin: auto;
+  padding:20px;
+}
+
+.body {
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+
+.titulo {
+  background-color: #ececec;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.formulario1 {
+  border: 1px black solid;
+  border-radius: 10px;
+  margin: auto;
+  width: 100%;
+}
+
+.elemento1 {
+  padding: 10px;
+  border-radius: 10px;
+  width: 500px ;
+}
+
+.elemento2 {
+  border: 3px #ececec solid;
+  border-radius: 40px;
+  padding: 10px;
+}
+
+.btn_rojo {
+  background-color: #800000;
+  color: white;
+  border-radius: 10px;
+  border: 0;
+  padding: 10px 30px;
+}
+
+fieldset {
+  border: 1px #ececec;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #ececec;
+  text-align: center;
+}
+
+legend {
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  margin: auto;
+}
+
+.caja3 {
+  height: 100px;
+  width: 500px;
+  font-family: Helvetica;
+  font-size: 16px;
+  padding: 10px;
+  resize: none;
+}
+
+.actividades {
+  color: black;
+}
+
+.idioma_ingles {
+  color: black;
+}
